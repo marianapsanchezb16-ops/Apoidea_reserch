@@ -33,6 +33,6 @@ resume={La investigación se basa en la familia Megachilidae, conocidas por ser 
   year={2025},
   publisher={BioOne}
   resume={La investigación se basó en proporcionar una clave ilustrada de 5 especies del subgénero *Meliponella* y la descripción de nuevas especies para Perú y Bolivia.
-Se conoce a la tribu Meliponini como un grupo diverso altamente eusocial, en cual se han descrito 470 especies y 32 géneros. *Melipona* y *Tetragonisca* son los géneros más usados en la meliponicultura. 
-Para la terminología morfológica sigue a Michener (2007), realiza una descripción detallada de la morfología de la especie y las fotografías en las diferentes vistas, con la clave para las especies de  abejas obreras del genero *Meliponella* .}
+  Se conoce a la tribu Meliponini como un grupo diverso altamente eusocial, en cual se han descrito 470 especies y 32 géneros. *Melipona* y *Tetragonisca* son los géneros más usados en la meliponicultura. 
+  Para la terminología morfológica sigue a Michener (2007), realiza una descripción detallada de la morfología de la especie y las fotografías en las diferentes vistas, con la clave para las especies de  abejas obreras del genero *Meliponella* .}
 }
